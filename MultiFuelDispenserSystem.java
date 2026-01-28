@@ -252,7 +252,7 @@ return amountDiesel;
 }
 
 public static double calculateKeroseneLiter(double amountByLiter){
-double amountByLiterKerosene = 720 * amountByLiter;
+double amountByLiterKerosene = 550 * amountByLiter;
 
 return amountByLiterKerosene;
 } 
